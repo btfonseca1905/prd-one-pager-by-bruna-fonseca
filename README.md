@@ -8,7 +8,7 @@ Criada por **Bruna Fonseca**, Product Manager, professora e fundadora da b-a.BA 
 
 1. Conversa com você **uma pergunta por vez**.
 2. Entende o produto, a dor do cliente, a proposta de valor e o público-alvo.
-3. Ajuda a selecionar as três funcionalidades mais importantes.
+3. Levanta a totalidade das funcionalidades do produto, sem limite de quantidade.
 4. Confirma informações, hipóteses e pendências antes de finalizar.
 5. Gera um documento `.md` conciso, pronto para compartilhar ou versionar.
 
@@ -19,7 +19,7 @@ Criada por **Bruna Fonseca**, Product Manager, professora e fundadora da b-a.BA 
 - **2. O Problema:** dor do cliente e evidência breve, quando disponível.
 - **3. A Solução:** como funciona e sua proposta de valor.
 - **4. Persona:** quem usa o produto e em qual contexto.
-- **5. Features:** três funcionalidades e seus benefícios.
+- **5. Features:** todas as funcionalidades do produto e seus benefícios.
 
 Se não houver dados de pesquisa, a Skill sinaliza que a hipótese precisa ser validada. Ela não inventa estatísticas ou depoimentos.
 
