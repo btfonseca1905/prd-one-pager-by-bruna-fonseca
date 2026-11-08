@@ -26,7 +26,7 @@ Se não houver dados de pesquisa, a Skill sinaliza que a hipótese precisa ser v
 ## Estrutura dos arquivos
 
 ```text
-gerar-one-pager-produto/
+one-pager-produto/
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
@@ -42,14 +42,14 @@ gerar-one-pager-produto/
    git clone https://github.com/btfonseca1905/prd-one-pager-by-bruna-fonseca.git
    ```
 
-2. Para uso em um projeto Codex, copie a pasta `gerar-one-pager-produto` para `.agents/skills/` no diretório do projeto, preservando os arquivos internos.
+2. Para uso em um projeto Codex, copie a pasta `one-pager-produto` para `.agents/skills/` no diretório do projeto, preservando os arquivos internos.
 3. Abra o projeto no VS Code com a integração do Codex configurada e inicie uma conversa.
 
 A descoberta automática depende do agente e da configuração. Para outros agentes, consulte o diretório de Skills previsto por eles.
 
 ## Como usar
 
-> Use a Skill `gerar-one-pager-produto` para criar um One-Pager de Produto comigo. Faça uma pergunta por vez e, no final, gere o documento `.md`.
+> Use a Skill `one-pager-produto` para criar um One-Pager de Produto comigo. Faça uma pergunta por vez e, no final, gere o documento `.md`.
 
 ## Observações
 
